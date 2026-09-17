@@ -1,0 +1,28 @@
+﻿# Large datasets
+data/purchases.txt
+
+# Docker image archives / temporary files
+images.tar
+.tmp-images.tar*
+
+# Backup files
+*.bak
+
+# Unnecessary local installer
+web/get-pip.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+/spark_analysis.py
