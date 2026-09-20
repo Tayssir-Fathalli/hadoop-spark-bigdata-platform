@@ -26,3 +26,6 @@ venv/
 Thumbs.db
 
 /spark_analysis.py
+
+# Unnecessary README
+README.txt
